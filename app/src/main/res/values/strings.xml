@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="biodata">Saya kuliah di Universitas Islam Negeri Sunan Gunung Djati Bandung. Saya sekarang semester 7 di Jurusan Teknik Informatika.
+    Alhamdulillah, saya sangat nyaman dan betah kuliah di sana. Teman-teman yang baik, dosen yang ramah serta lingkungan yang sangat nyaman.
+        Mungkin awalnya saya memang tidak mencintai Informatika karena sejak SMA saya menyukai Kimia namun Allah mempunyai rencana yang lebik baik.
+        Mulai dari sekarang saya sudah mulai mencintai Informatika, mungkin memang sulit rasanya bertahan apalagi saya tidak mempunyai basic sama sekali di Informatika namun saya yakin do\'a dan ikhtiar dapat membantu saya untuk menggapai gelar ST.
+        Bismillah. Salah satu matakuliah yang saya ambil sekarang yaitu Praktikum Mobile Programming yang memiliki 1 sks. Salah satu materi yang saya pelajari yaitu
+        TextView pada Android digunakan untuk manmpilkan teks atau tulisan pada layar atau perangkat android. Sedangkan EditText digunakan oleh user untuk menginput atau memasukkan tulisan, teks atau angka. Pada tutorial kali ini kita akan membuat aplikasi sederhana untuk memasukkan teks dan kemudian menampikanya di layar perangkat Android.
+        Pada pemrograman android, pengaturan layout dasar  sering dilakukan melalui file XML (Extended Markup Language) yang nantinya akan diakses/dipanggil melalui class java sebagai file utama pemrograman aplikasi yang dibuat.
+    </string>
+
+</resources>
